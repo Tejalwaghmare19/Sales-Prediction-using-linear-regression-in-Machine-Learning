@@ -41,3 +41,19 @@ plt.ylabel('Sales')
 plt.title('Sales Prediction using Linear Regression')
 plt.show()
 
+
+Output - Mean Squared Error: 2.614798054868012
+
+![image](https://github.com/Tejalwaghmare19/Sales-Prediction-using-linear-regression-in-Machine-Learning/assets/88417292/73ee1d5c-4039-4dc0-bec6-c44073f9c9fd)
+
+
+
+
+
+
+
+
+
+
+
+
